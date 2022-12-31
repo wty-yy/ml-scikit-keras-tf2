@@ -3,11 +3,11 @@
 
 为了便于以后使用Scikit-Learn库函数和TensorFlow库函数，我在Blog中顺便总结了书中所提到的常用函数及模型写法：
 
-- ###### [Pandas常用函数](https://wty-yy.github.io/posts/64648/#pandas)
+- [Pandas常用函数](https://wty-yy.github.io/posts/64648/#pandas)
 
-- ###### [Scikit-Learn 常用函数及模型写法](https://wty-yy.github.io/posts/65380/)
+- [Scikit-Learn 常用函数及模型写法](https://wty-yy.github.io/posts/65380/)
 
-- ###### [TensorFlow常用函数及模型写法](https://wty-yy.github.io/posts/48334/)
+- [TensorFlow常用函数及模型写法](https://wty-yy.github.io/posts/48334/)
 
 目前完成项目：
 
