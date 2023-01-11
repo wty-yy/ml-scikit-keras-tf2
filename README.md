@@ -11,9 +11,9 @@
 
 目前完成项目：
 
-- [x] 第二章 - 端到端的学习项目：[blog](https://wty-yy.github.io/posts/44338/), [code-1.end_to_end_machine_learning_project.ipynb](https://github.com/wty-yy/ml-scikit-keras-tf2/blob/main/1.end_to_end_machine_learning_project.ipynb)
-- [ ] 第三章 - 分类
-- [ ] 第四章 - 训练模型
+- [x] 第二章 - 端到端的学习项目：[blog](https://wty-yy.github.io/posts/44338/), [code-2.end_to_end_machine_learning_project.ipynb](https://github.com/wty-yy/ml-scikit-keras-tf2/blob/main/2.end_to_end_machine_learning_project.ipynb)
+- [x] 第三章 - 分类：[blog](https://wty-yy.github.io/posts/64618/), [code-3.classification](https://github.com/wty-yy/ml-scikit-keras-tf2/blob/main/3.classification.ipynb)
+- [x] 第四章 - 训练模型：[blog](https://wty-yy.github.io/posts/24285/), [code-4.linear_models](https://github.com/wty-yy/ml-scikit-keras-tf2/blob/main/4.linear_models.ipynb)
 - [ ] 第五章 - 支持向量机
 - [ ] 第六章 - 决策树
 - [ ] 第七章 - 集成学习和随机森林
